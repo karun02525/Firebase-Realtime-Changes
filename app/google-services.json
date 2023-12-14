@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458073826245",
+    "project_id": "fir-realtime-233ad",
+    "storage_bucket": "fir-realtime-233ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458073826245:android:ddf674f11872aaf2dde1ac",
+        "android_client_info": {
+          "package_name": "com.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmgqsaGTth7fCuqrQb-qrxJiO-3xDV1gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
